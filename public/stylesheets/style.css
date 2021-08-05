@@ -3,12 +3,13 @@ main {
   }
   
   body {
-    background-color: black;
+    background-color: #082032;
   }
   
   header {
-    background-color: black;
+    background-color: #334756;
     padding-bottom: 2%;
+    padding-left: 2%;
     border-bottom: solid;
     border-color: white;
     border: solid bottom white;
@@ -37,7 +38,7 @@ main {
   }
   
   a:hover {
-    color: yellow;
+    color: #FF4C29;
   }
   
   .jumbo-tron {
@@ -54,12 +55,12 @@ main {
   
   .post-box {
     border-style: solid;
-    border-color: red;
+    border-color: white;
     margin-top: 1%;
   }
   
   .title {
-    background-color: black;
+    background-color: #334756;
     border-bottom: solid;
     border-color: white;
   }
@@ -77,7 +78,8 @@ main {
   }
   
   p {
-    color: yellow;
+    color: #FF4C29;
+    font-weight: bold;
   }
   
   .user {
@@ -85,8 +87,9 @@ main {
   }
   
   .btn {
-    color: yellow;
-    background-color: gray;
+    color: #FF4C29;
+    font-weight: bold;
+    background-color: #334756;
   }
   
   textarea {
@@ -103,5 +106,5 @@ main {
   }
   
   .btnDeletePost:hover {
-    color: yellow;
+    color: #FF4C29;
   }
