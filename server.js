@@ -38,5 +38,5 @@ app.use(serverRoutes);
 
 // Getting connected to db and server
 sequelize.sync({ force: false }).then(() => {
-    app.listen(PORT, () => console.log('Server has been awakened!'));
+    app.listen(PORT, () => console.log('App listening on port 3001!'));
 });
