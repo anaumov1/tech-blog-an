@@ -18,6 +18,9 @@
   
   To install all the files for the "Tech Blog" app please clone this https://github.com/anaumov1/tech-blog-an.git repository to your computer. For instructions on how to clone a repository from GitHub follow this link: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository.
 Cloning the files on GitHub to your machine. You will then run 'npm i' and it will install the needed dependencies.
+
+  ## Screenshot
+   ![alt text](public/images/Screenshot.PNG)
   
   ## Usage
   You will first make a new username and password that is then added to the database. You will then be redirected to the homepage that will show posts(if any). From there, you can comment on posts that are on the homepage, or you may go to the dashboard link where you will see posts you have created and be able to edit and delete said posts.
